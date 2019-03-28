@@ -45,7 +45,7 @@ We provide a summary of existing benchmark data sets for evaluating recommendati
 
 Besides, we release a new large-scale dataset collected from Douban (www.douban.com) to boost the 
 research of sequential recommendation, social recommendation and multi-domain recommendation.
-See details [here](https://github.com/Songweiping/RecSys/blob/master/socialRec/README.md#douban-data).
+See details [here](https://github.com/DeepGraphLearning/RecommenderSystems/blob/master/socialRec/README.md#douban-data).
 
 
 ## Publications:
