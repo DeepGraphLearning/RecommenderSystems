@@ -50,7 +50,9 @@ followed by lots of research papers corresponding to several sub-fields of recom
 * Session-bases Social Recommendation via Dynamic Graph Attention Networks. WSDM'19. ([paper](https://arxiv.org/pdf/1902.09362.pdf))
 * Social Attentional Memory Network: Modeling Aspect- and Friend-level Diferences in Recommendation. WSDM'19. ([paper](http://www.thuir.cn/group/~mzhang/publications/WSDM2019ChenChong.pdf))
 * Graph Neural Networks for Social Recommendation. WWW'19. ([paper](https://arxiv.org/pdf/1902.07243.pdf))
+* Attentive Recurrent Social Recommendation. SIGIR'19. ([paper](https://dl.acm.org/citation.cfm?id=3210023))
 * Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation. AAAI'18. ([paper](https://arxiv.org/pdf/1711.11458.pdf))
+* SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation. AAAI'18. ([paper](https://arxiv.org/pdf/1811.02815.pdf))
 * Learning and Transferring Social and Item Visibilities for Personalized Recommendation. CIKM'17. ([paper](https://dl.acm.org/citation.cfm?id=3132847.3132911))
 * Learning to Rank with Trust and Distrust in Recommender Systems. Recsys'17. ([paper](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p5-rafailidis.pdf))
 * Collaborative User Network Embedding for Social Recommender Systems. SDM'17. ([paper](https://repository.kaust.edu.sa/bitstream/handle/10754/625053/1.9781611974973.43.pdf?sequence=1&isAllowed=y))
@@ -119,14 +121,10 @@ followed by lots of research papers corresponding to several sub-fields of recom
 * SHINE: Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction. WSDM'18. ([paper](https://dl.acm.org/citation.cfm?doid=3159652.3159666))
 * Learning Heterogeneous Knowledge Base Embeddings for Explainable Recommendation. Arxiv'18. ([paper](https://arxiv.org/pdf/1805.03352.pdf))
 * Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks. KDD'17. ([paper](http://www.cse.ust.hk/~hzhaoaf/data/kdd17-paper.pdf))([code](https://github.com/HKUST-KnowComp/FMG))
-* Combining Knowledge with Deep Convolutional Neural Networks for Short Text Classification. IJCAI'17. ([paper](http://yellowstone.cs.ucla.edu/~jinwang/jinwang_files/ijcai2017.pdf))
 * Collaborative Knowledge Base Embedding for Recommender Systems. KDD'16. ([paper](https://dl.acm.org/citation.cfm?id=2939673))
 * Personalized Recommendations using Knowledge Graphs: A Probabilistic Logic Programming Approach.RecSys'16. ([paper](https://www.cs.cmu.edu/~wcohen/postscript/recsys-2016.pdf))
-* Question Answering over Freebase with Multi-Column Convolutional Neural Networks. ACL'2015. ([paper](http://www.aclweb.org/anthology/P15-1026))
 * Personalized Entity Recommendation: A Heterogeneous Information Network Approach. WSDM'14. ([paper](http://hanj.cs.illinois.edu/pdf/wsdm14_xyu.pdf))
 * PathSim: Meta Path-Based Top-K Similarity Search in Heterogeneous Information Networks.VLDB'11.([paper](http://vldb.org/pvldb/vol4/p992-sun.pdf))
-* A Matrix Factorization Technique with Trust Propagation for Recommendation in Social Networks. RecSys'10. ([paper](https://dl.acm.org/citation.cfm?id=1864736))
-* Matrix factorization techniques for recommender systems. IEEE'09. ([paper](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf))
 
 
 ## Reinforcement Learning for Recommendation
