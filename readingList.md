@@ -92,6 +92,7 @@ followed by lots of research papers corresponding to several sub-fields of recom
 
 
 ## Feature-based Recommendation (CTR Prediction)
+* Feature Generation by Convolutional Neural Network for Click-Through Rate Prediction. WWW'19. ([paper](https://arxiv.org/pdf/1904.04447.pdf))
 * AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks. arxiv'18. ([paper](https://arxiv.org/pdf/1810.11921.pdf))([code](https://github.com/shichence/AutoInt))
 * xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems. KDD'18. ([paper](https://arxiv.org/pdf/1803.05170.pdf))([code](https://github.com/Leavingseason/xDeepFM)) 
 * TEM: Tree-enhanced Embedding Model for Explainable Recommendation. WWW'18. ([paper](https://www.comp.nus.edu.sg/~xiangnan/papers/www18-tem.pdf))
