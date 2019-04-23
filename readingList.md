@@ -47,7 +47,7 @@ followed by lots of research papers corresponding to several sub-fields of recom
 
 ## Social Recommendation
 * Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems. WWW'19. ([paper](https://arxiv.org/pdf/1903.10433.pdf))
-* Session-bases Social Recommendation via Dynamic Graph Attention Networks. WSDM'19. ([paper](https://arxiv.org/pdf/1902.09362.pdf))
+* Session-bases Social Recommendation via Dynamic Graph Attention Networks. WSDM'19. ([paper](https://arxiv.org/pdf/1902.09362.pdf))([code](https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec))
 * Social Attentional Memory Network: Modeling Aspect- and Friend-level Diferences in Recommendation. WSDM'19. ([paper](http://www.thuir.cn/group/~mzhang/publications/WSDM2019ChenChong.pdf))
 * Graph Neural Networks for Social Recommendation. WWW'19. ([paper](https://arxiv.org/pdf/1902.07243.pdf))
 * Attentive Recurrent Social Recommendation. SIGIR'19. ([paper](https://dl.acm.org/citation.cfm?id=3210023))
@@ -70,6 +70,7 @@ followed by lots of research papers corresponding to several sub-fields of recom
 
 
 ## Sequential Recommendation
+* Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems. WWW'19. ([paper](https://arxiv.org/pdf/1904.04381.pdf))
 * A Simple Convolutional Generative Network for Next Item Recommendation. WSDM'19. ([paper](https://arxiv.org/pdf/1808.05163.pdf))([code](https://github.com/fajieyuan/nextitnet))
 * Sequential Variational Autoencoders for Collaborative Filtering. WSDM'19. ([paper](https://dl.acm.org/citation.cfm?id=3291007))
 * Session-based Recommendation with Graph Neural Networks. AAAI'19. ([paper](https://arxiv.org/pdf/1811.00855.pdf))([code](https://github.com/CRIPAC-DIG/SR-GNN))
