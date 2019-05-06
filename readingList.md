@@ -70,6 +70,8 @@ followed by lots of research papers corresponding to several sub-fields of recom
 
 
 ## Sequential Recommendation
+* Hierarchical Context enabled Recurrent Neural Network for Recommendation. AAAI2019. ([paper](https://arxiv.org/pdf/1904.12674.pdf))([code](https://github.com/gtshs2/HCRNN))
+* Lifelong Sequential Modeling with Personalized Memorization for User Response Prediction. WWW'19. ([paper](https://arxiv.org/pdf/1905.00758.pdf))([code](https://github.com/alimamarankgroup/HPMN))
 * Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems. WWW'19. ([paper](https://arxiv.org/pdf/1904.04381.pdf))
 * A Simple Convolutional Generative Network for Next Item Recommendation. WSDM'19. ([paper](https://arxiv.org/pdf/1808.05163.pdf))([code](https://github.com/fajieyuan/nextitnet))
 * Sequential Variational Autoencoders for Collaborative Filtering. WSDM'19. ([paper](https://dl.acm.org/citation.cfm?id=3291007))
