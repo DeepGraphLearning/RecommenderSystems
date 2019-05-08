@@ -5,6 +5,7 @@ followed by lots of research papers corresponding to several sub-fields of recom
 *Note: We only list those we have read or we are aware of.*
 
 ## Survey
+* Deep Learning-based Sequential Recommender Systems: Concepts, Algorithms, and Evaluations. arxv'19. ([paper](https://arxiv.org/pdf/1905.01997.pdf))
 * A review on deep learning for recommender systems: challenges and remedies. AI Review'18. ([paper](https://link.springer.com/article/10.1007/s10462-018-9654-y))
 * Explainable Recommendation: A Survey and New Perspectives. arxiv'18. ([paper](https://arxiv.org/pdf/1804.11192.pdf))
 * Evaluation of Session-based Recommendation Algorithms. arxiv'18. ([paper](https://arxiv.org/pdf/1803.09587.pdf))
@@ -80,6 +81,7 @@ followed by lots of research papers corresponding to several sub-fields of recom
 * Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding. WSDM'18. ([paper](http://www.sfu.ca/~jiaxit/resources/wsdm18caser.pdf))([code](https://github.com/graytowne/caser_pytorch))
 * Latent Cross: Making Use of Context in Recurrent Recommender Systems. WSDM'18. ([paper](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46488.pdf))
 * Sequential Recommendation with User Memory Networks. WSDM'18. ([paper](https://dl.acm.org/citation.cfm?id=3159668))
+* STAMP: Short-Term A ention/Memory Priority Model for Session-based Recommendation. KDD'18. ([paper](https://www.kdd.org/kdd2018/accepted-papers/view/stamp-short-term-attentionmemory-priority-model-for-session-based-recommend))([code](https://github.com/uestcnlp/STAMP))
 * Recurrent Neural Networks with Top-k Gains for Session-based Recommendations. CIKM'18. ([paper](https://arxiv.org/pdf/1706.03847.pdf))
 * Translation-based recommendation. RecSys'17. ([paper](https://arxiv.org/pdf/1707.02410.pdf))([code](https://drive.google.com/file/d/0B9Ck8jw-TZUEVmdROWZKTy1fcEE/view))
 * Neural Attentive Session-based Recommendation. CIKM'17. ([paper](https://arxiv.org/pdf/1711.04725.pdf))
