@@ -17,6 +17,7 @@ followed by lots of research papers corresponding to several sub-fields of recom
 
 
 ## General Methods
+* Compositional Coding for Collaborative Filtering. SIGIR'19. ([paper](https://arxiv.org/pdf/1905.03752.pdf))([code](https://github.com/3140102441/CCCF))
 * Joint Optimization of Tree-based Index and Deep Model for Recommender Systems. arxiv'19. ([paper](https://arxiv.org/pdf/1902.07565.pdf))
 * Gated Attentive-Autoencoder for Content-Aware Recommendation. WSDM'19. ([paper](https://arxiv.org/abs/1812.02869.pdf))
 * Real-time Personalization using Embeddings for Search Ranking at Airbnb. KDD'18. ([paper](https://astro.temple.edu/~tua95067/kdd2018.pdf))
@@ -116,6 +117,7 @@ followed by lots of research papers corresponding to several sub-fields of recom
 
 
 ## Knowledge Graph-based Recommendation
+* Knowledge Graph Convolutional Networks for Recommender Systems with Label Smoothness Regularization. KDD'19. ([paper](https://arxiv.org/pdf/1905.04413.pdf))([code](https://github.com/hwwang55/KGCN))
 * Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preference. WWW'19. ([paper](https://www.comp.nus.edu.sg/~xiangnan/papers/www19-KGRec.pdf))
 * Jointly Learning Explainable Rules for Recommendation with Knowledge Graph. WWW'19. ([paper](https://arxiv.org/pdf/1903.03714.pdf))
 * Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation. WWW'19. ([paper](https://arxiv.org/pdf/1901.08907.pdf))
@@ -134,6 +136,7 @@ followed by lots of research papers corresponding to several sub-fields of recom
 
 
 ## Reinforcement Learning for Recommendation
+* Generative Adversarial User Model for Reinforcement Learning Based Recommendation System. ICML'19. ([paper](https://arxiv.org/pdf/1812.10613v2.pdf))
 * Value-aware Recommendation based on Reinforced Profit Maximization in E-commerce Systems. arxiv'19. ([paper](https://arxiv.org/pdf/1902.00851.pdf))([code](https://github.com/rec-agent/rec-rl))
 * Top-K Off-Policy Correction for a REINFORCE Recommender System. WSDM'19. ([paper](https://arxiv.org/pdf/1812.02353.pdf))
 * Deep Reinforcement Learning for Page-wise Recommendations. RecSys'18. ([paper](https://arxiv.org/pdf/1805.02343.pdf))
