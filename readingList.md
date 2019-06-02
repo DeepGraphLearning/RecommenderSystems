@@ -48,6 +48,7 @@ followed by lots of research papers corresponding to several sub-fields of recom
 
 
 ## Social Recommendation
+* Beyond Personalization: Social Content Recommendation for Creator Equality and Consumer Satisfaction. KDD'19. ([paper](https://arxiv.org/pdf/1905.11900.pdf))([code](https://github.com/HKUST-KnowComp/Social-Explorative-Attention-Networks))
 * Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems. WWW'19. ([paper](https://arxiv.org/pdf/1903.10433.pdf))
 * Session-bases Social Recommendation via Dynamic Graph Attention Networks. WSDM'19. ([paper](https://arxiv.org/pdf/1902.09362.pdf))([code](https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec))
 * Social Attentional Memory Network: Modeling Aspect- and Friend-level Diferences in Recommendation. WSDM'19. ([paper](http://www.thuir.cn/group/~mzhang/publications/WSDM2019ChenChong.pdf))
@@ -73,7 +74,7 @@ followed by lots of research papers corresponding to several sub-fields of recom
 
 ## Sequential Recommendation
 * Hierarchical Context enabled Recurrent Neural Network for Recommendation. AAAI2019. ([paper](https://arxiv.org/pdf/1904.12674.pdf))([code](https://github.com/gtshs2/HCRNN))
-* Lifelong Sequential Modeling with Personalized Memorization for User Response Prediction. WWW'19. ([paper](https://arxiv.org/pdf/1905.00758.pdf))([code](https://github.com/alimamarankgroup/HPMN))
+* Lifelong Sequential Modeling with Personalized Memorization for User Response Prediction. SIGIR'19. ([paper](https://arxiv.org/pdf/1905.00758.pdf))([code](https://github.com/alimamarankgroup/HPMN))
 * Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems. WWW'19. ([paper](https://arxiv.org/pdf/1904.04381.pdf))
 * A Simple Convolutional Generative Network for Next Item Recommendation. WSDM'19. ([paper](https://arxiv.org/pdf/1808.05163.pdf))([code](https://github.com/fajieyuan/nextitnet))
 * Sequential Variational Autoencoders for Collaborative Filtering. WSDM'19. ([paper](https://dl.acm.org/citation.cfm?id=3291007))
