@@ -48,7 +48,9 @@ followed by lots of research papers corresponding to several sub-fields of recom
 
 
 ## Social Recommendation
+* Deep Adversarial Social Recommendation. IJCAI'19. ([paper](https://arxiv.org/pdf/1905.13160.pdf))
 * Beyond Personalization: Social Content Recommendation for Creator Equality and Consumer Satisfaction. KDD'19. ([paper](https://arxiv.org/pdf/1905.11900.pdf))([code](https://github.com/HKUST-KnowComp/Social-Explorative-Attention-Networks))
+* A Neural Influence Diffusion Model for Social Recommendation. SIGIR'19. ([paper](https://arxiv.org/pdf/1904.10322.pdf))([code](https://github.com/PeiJieSun/diffnet))
 * Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems. WWW'19. ([paper](https://arxiv.org/pdf/1903.10433.pdf))
 * Session-bases Social Recommendation via Dynamic Graph Attention Networks. WSDM'19. ([paper](https://arxiv.org/pdf/1902.09362.pdf))([code](https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec))
 * Social Attentional Memory Network: Modeling Aspect- and Friend-level Diferences in Recommendation. WSDM'19. ([paper](http://www.thuir.cn/group/~mzhang/publications/WSDM2019ChenChong.pdf))
@@ -153,6 +155,8 @@ followed by lots of research papers corresponding to several sub-fields of recom
 * Usage-based web recommendations: a reinforcement learning approach. RecSys'07. ([paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.157.9640&rep=rep1&type=pdf))
 * An MDP-Based Recommender System. JMLR'05. ([paper](http://www.jmlr.org/papers/volume6/shani05a/shani05a.pdf))
 
+## Point-of-Interest recommendation
+* Topic-Enhanced Memory Networks for Personalised Point-of-Interest Recommendation. KDD'19. ([paper](https://arxiv.org/pdf/1905.13127.pdf))
 
 ## Security/Robutness of RecSys
 * Adversarial recommendation attack of the learned fake users. arxiv'18. ([paper](https://arxiv.org/pdf/1809.08336.pdf))
