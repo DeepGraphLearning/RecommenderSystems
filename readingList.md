@@ -5,7 +5,8 @@ followed by lots of research papers corresponding to several sub-fields of recom
 *Note: We only list those we have read or we are aware of.*
 
 ## Survey
-* Deep Learning-based Sequential Recommender Systems: Concepts, Algorithms, and Evaluations. arxv'19. ([paper](https://arxiv.org/pdf/1905.01997.pdf))
+* A Survey on Session-based Recommender Systems. arxiv'19. ([paper](https://arxiv.org/pdf/1902.04864.pdf))
+* Deep Learning-based Sequential Recommender Systems: Concepts, Algorithms, and Evaluations. arxiv'19. ([paper](https://arxiv.org/pdf/1905.01997.pdf))
 * A review on deep learning for recommender systems: challenges and remedies. AI Review'18. ([paper](https://link.springer.com/article/10.1007/s10462-018-9654-y))
 * Explainable Recommendation: A Survey and New Perspectives. arxiv'18. ([paper](https://arxiv.org/pdf/1804.11192.pdf))
 * Evaluation of Session-based Recommendation Algorithms. arxiv'18. ([paper](https://arxiv.org/pdf/1803.09587.pdf))
