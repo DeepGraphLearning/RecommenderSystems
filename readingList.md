@@ -77,6 +77,7 @@ followed by lots of research papers corresponding to several sub-fields of recom
 
 
 ## Sequential Recommendation
+* Hierarchical Gating Networks for Sequential Recommendation. KDD2019. ([paper](https://arxiv.org/pdf/1906.09217.pdf))([code](https://github.com/allenjack/HGN))
 * Hierarchical Context enabled Recurrent Neural Network for Recommendation. AAAI2019. ([paper](https://arxiv.org/pdf/1904.12674.pdf))([code](https://github.com/gtshs2/HCRNN))
 * Lifelong Sequential Modeling with Personalized Memorization for User Response Prediction. SIGIR'19. ([paper](https://arxiv.org/pdf/1905.00758.pdf))([code](https://github.com/alimamarankgroup/HPMN))
 * Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems. WWW'19. ([paper](https://arxiv.org/pdf/1904.04381.pdf))
@@ -157,8 +158,32 @@ followed by lots of research papers corresponding to several sub-fields of recom
 * Usage-based web recommendations: a reinforcement learning approach. RecSys'07. ([paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.157.9640&rep=rep1&type=pdf))
 * An MDP-Based Recommender System. JMLR'05. ([paper](http://www.jmlr.org/papers/volume6/shani05a/shani05a.pdf))
 
-## Point-of-Interest recommendation
+## POI Recommendation
 * Topic-Enhanced Memory Networks for Personalised Point-of-Interest Recommendation. KDD'19. ([paper](https://arxiv.org/pdf/1905.13127.pdf))
+* Exploiting POI-Specific Geographical Influence for Point-of-Interest Recommendation. IJCAI'18. ([paper](https://www.ijcai.org/proceedings/2018/0539.pdf))
+* Content-Aware Hierarchical Point-of-Interest Embedding Model for Successive POI Recommendation. IJCAI'18. ([paper](https://www.ijcai.org/proceedings/2018/0458.pdf))
+* A Contextual Attention Recurrent Architecture for Context-Aware Venue Recommendation. SIGIR'18. ([paper](https://core.ac.uk/download/pdf/155789835.pdf))
+* A location-sentiment-aware recommender system for both hometown and out-of-town users. KDD'17. ([paper](https://arxiv.org/pdf/1706.06239.pdf))
+* What your images reveal: Exploiting visual contents for point-of-interest recommendation. WWW'17. ([paper](http://www.public.asu.edu/~swang187/publications/VPOI.pdf))
+* POI2Vec: Geographical Latent Representation for Predicting Future Visitors. AAAI'17. ([paper](https://pdfs.semanticscholar.org/ff85/033527eef66c7d89deac5f73da42c7b11682.pdf))
+* Category-aware next point-of-interest recommendation via listwise Bayesian personalized ranking. IJCAI'17. ([paper](https://www.ijcai.org/proceedings/2017/0255.pdf))
+* Predicting the Next Location: A Recurrent Model with Spatial and Temporal Contexts. AAAI'16. ([paper](https://pdfs.semanticscholar.org/5bdf/0970034d0bb8a218c06ba3f2ddf97d29103d.pdf))
+* Point-of-interest recommendations: Learning potential check-ins from friends. KDD'16. ([paper](https://www.kdd.org/kdd2016/papers/files/rfp0448-liA.pdf))
+* Gmove: Group-level mobility modeling using geo-tagged social media. KDD'16. ([paper](http://hanj.cs.illinois.edu/pdf/kdd16_czhang.pdf))
+* Learning graph-based poi embedding for location-based recommendation. CIKM'16. ([paper](https://static.aminer.org/pdf/fa/cikm2016/lfp0055-xieA..pdf))
+* Geo-teaser: Geo-temporal sequential embedding rank for point-of-interest recommendation. WWW'16. ([paper](https://arxiv.org/pdf/1606.05859.pdf))
+* GeoSoCa: Exploiting geographical, social and categorical correlations for point-of-interest recommendations. SIGIR'15. ([paper](http://www.cs.cityu.edu.hk/~chiychow/papers/SIGIR_2015.pdf))
+* GeoMF: joint geographical modeling and matrix factorization for point-of-interest recommendation. KDD'14. ([paper](http://dnslab.jnu.ac.kr/classes/old_courses/2015s_das/[KDD_2014]%20GeoMF-%20Joint%20Geographical%20Modeling%20and%20Matrix%20Factorization%20for%20Point-of-Interest%20Recommendation.pdf))
+* Exploiting geographical neighborhood characteristics for location recommendation. CIKM'14. ([paper](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4772&context=sis_research))
+* Nlpmm: A next location predictor with markov modeling. PAKDD'14. ([paper](https://github.com/vatika/Algorithm-Name-Detection/blob/master/big_dataset/NLPMM%20-%20a%20Next%20Location%20Predictor%20with%20Markov%20Modeling.pdf))
+* Lore: Exploiting sequential influence for location recommendations. SIGSPATIAL’14. ([paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.699.8008&rep=rep1&type=pdf))
+* Exploring Temporal Effects for Location Recommendation on Location-Based Social Networks. RecSys'13. ([paper](http://faculty.cs.tamu.edu/xiahu/papers/recsys2013_Gao.pdf))
+* Where You Like to Go Next: Successive Point-of-Interest Recommendation. AAAI'13. ([paper](https://pdfs.semanticscholar.org/01a0/438352146dea1129121a94fe428d97971547.pdf))
+* Fused Matrix Factorization with Geographical and Social Influence in Location-Based Social Networks. AAAI'12. ([paper](https://dl.acm.org/citation.cfm?id=2900731))
+* Friendship and mobility: user movement in location-based social networks. KDD'11. ([paper](https://cs.stanford.edu/people/jure/pubs/mobile-kdd11.pdf))
+
+## Cold-Start Recommendation
+* From Zero-Shot Learning to Cold-Start Recommendation. AAAI2019. ([paper](https://arxiv.org/pdf/1906.08511.pdf))([code](https://github.com/lijin118/LLAE))
 
 ## Security/Robutness of RecSys
 * Adversarial recommendation attack of the learned fake users. arxiv'18. ([paper](https://arxiv.org/pdf/1809.08336.pdf))
