@@ -142,6 +142,8 @@ followed by lots of research papers corresponding to several sub-fields of recom
 
 
 ## Reinforcement Learning for Recommendation
+* Explainable Knowledge Graph-based Recommendation via Deep Reinforcement Learning. arXiv'19. ([paper](https://arxiv.org/pdf/1906.09506.pdf))
+* Reinforcement Knowledge Graph Reasoning for Explainable Recommendation. SIGIR'19. ([paper](https://arxiv.org/pdf/1906.05237.pdf))
 * Generative Adversarial User Model for Reinforcement Learning Based Recommendation System. ICML'19. ([paper](https://arxiv.org/pdf/1812.10613v2.pdf))
 * Value-aware Recommendation based on Reinforced Profit Maximization in E-commerce Systems. arxiv'19. ([paper](https://arxiv.org/pdf/1902.00851.pdf))([code](https://github.com/rec-agent/rec-rl))
 * Top-K Off-Policy Correction for a REINFORCE Recommender System. WSDM'19. ([paper](https://arxiv.org/pdf/1812.02353.pdf))
