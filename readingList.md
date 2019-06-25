@@ -123,6 +123,8 @@ followed by lots of research papers corresponding to several sub-fields of recom
 
 
 ## Knowledge Graph-based Recommendation
+* Explainable Knowledge Graph-based Recommendation via Deep Reinforcement Learning. arXiv'19. ([paper](https://arxiv.org/pdf/1906.09506.pdf))
+* Reinforcement Knowledge Graph Reasoning for Explainable Recommendation. SIGIR'19. ([paper](https://arxiv.org/pdf/1906.05237.pdf))
 * Knowledge Graph Convolutional Networks for Recommender Systems with Label Smoothness Regularization. KDD'19. ([paper](https://arxiv.org/pdf/1905.04413.pdf))([code](https://github.com/hwwang55/KGCN))
 * Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preference. WWW'19. ([paper](https://www.comp.nus.edu.sg/~xiangnan/papers/www19-KGRec.pdf))
 * Jointly Learning Explainable Rules for Recommendation with Knowledge Graph. WWW'19. ([paper](https://arxiv.org/pdf/1903.03714.pdf))
