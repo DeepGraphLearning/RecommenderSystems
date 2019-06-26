@@ -163,6 +163,7 @@ followed by lots of research papers corresponding to several sub-fields of recom
 * An MDP-Based Recommender System. JMLR'05. ([paper](http://www.jmlr.org/papers/volume6/shani05a/shani05a.pdf))
 
 ## POI Recommendation
+* Spatiotemporal Representation Learning for Translation-Based POI Recommendation. TOIS'19. ([paper](https://www.dropbox.com/s/6l28nsge8mheim1/TOIS19-Qian.pdf?dl=0))
 * Topic-Enhanced Memory Networks for Personalised Point-of-Interest Recommendation. KDD'19. ([paper](https://arxiv.org/pdf/1905.13127.pdf))
 * Exploiting POI-Specific Geographical Influence for Point-of-Interest Recommendation. IJCAI'18. ([paper](https://www.ijcai.org/proceedings/2018/0539.pdf))
 * Content-Aware Hierarchical Point-of-Interest Embedding Model for Successive POI Recommendation. IJCAI'18. ([paper](https://www.ijcai.org/proceedings/2018/0458.pdf))
