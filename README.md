@@ -50,8 +50,9 @@ See details [here](https://github.com/DeepGraphLearning/RecommenderSystems/blob/
 
 
 ## Publications:
+* Weiping Song, Zhijian Duan, Ziqing Yang, Hao Zhu, Ming Zhang and Jian Tang. [Explainable Knowledge Graph-based Recommendation via Deep Reinforcement Learning](https://arxiv.org/pdf/1906.09506.pdf). arXiv'2019.
 * Weiping Song, Zhiping Xiao, Yifan Wang, Laurent Charlin, Ming Zhang and Jian Tang. 
 [Session-based Social Recommendation via Dynamic Graph Attention Networks](https://arxiv.org/pdf/1902.09362.pdf). WSDM'19.
 * Weiping Song, Chence Shi, Zhiping Xiao, Zhijian Duan, Yewen Xu, Ming Zhang and Jian Tang.
 [AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks](https://arxiv.org/pdf/1810.11921.pdf).
-arXiv preprint arXiv:1810.11921, 2018.
+arXiv'2018.
