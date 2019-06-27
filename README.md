@@ -43,8 +43,9 @@ We maintain a reading list of RecSys papers to keep track of up-to-date research
 ## Data List
 We provide a summary of existing benchmark data sets for evaluating recommendation methods.
 
-Besides, we release a new large-scale dataset collected from Douban (www.douban.com) to boost the 
-research of sequential recommendation, social recommendation and multi-domain recommendation.
+## New Data set
+We contribute a new large-scale dataset, which is collected from a popular movie/music/book review website Douban (www.douban.com).
+The data set could be useful for researches on sequential recommendation, social recommendation and multi-domain recommendation.
 See details [here](https://github.com/DeepGraphLearning/RecommenderSystems/blob/master/socialRec/README.md#douban-data).
 
 
