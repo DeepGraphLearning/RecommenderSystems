@@ -18,6 +18,7 @@ followed by lots of research papers corresponding to several sub-fields of recom
 
 
 ## General Methods
+* A Capsule Network for Recommendation and Explaining What You Like and Dislike. SIGIR'19. ([paper](https://arxiv.org/pdf/1907.00687.pdf))([code](https://github.com/WHUIR/CARP))
 * Compositional Coding for Collaborative Filtering. SIGIR'19. ([paper](https://arxiv.org/pdf/1905.03752.pdf))([code](https://github.com/3140102441/CCCF))
 * Joint Optimization of Tree-based Index and Deep Model for Recommender Systems. arxiv'19. ([paper](https://arxiv.org/pdf/1902.07565.pdf))
 * Gated Attentive-Autoencoder for Content-Aware Recommendation. WSDM'19. ([paper](https://arxiv.org/abs/1812.02869.pdf))
@@ -126,6 +127,7 @@ followed by lots of research papers corresponding to several sub-fields of recom
 ## Knowledge Graph-based Recommendation
 * Explainable Knowledge Graph-based Recommendation via Deep Reinforcement Learning. arXiv'19. ([paper](https://arxiv.org/pdf/1906.09506.pdf))
 * Reinforcement Knowledge Graph Reasoning for Explainable Recommendation. SIGIR'19. ([paper](https://arxiv.org/pdf/1906.05237.pdf))
+* Exploring High-Order User Preference on the Knowledge Graph for Recommender Systems. TOIS'19. ([paper](https://dl.acm.org/citation.cfm?id=3312738))
 * Knowledge Graph Convolutional Networks for Recommender Systems with Label Smoothness Regularization. KDD'19. ([paper](https://arxiv.org/pdf/1905.04413.pdf))([code](https://github.com/hwwang55/KGCN))
 * Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preference. WWW'19. ([paper](https://www.comp.nus.edu.sg/~xiangnan/papers/www19-KGRec.pdf))
 * Jointly Learning Explainable Rules for Recommendation with Knowledge Graph. WWW'19. ([paper](https://arxiv.org/pdf/1903.03714.pdf))
@@ -173,7 +175,7 @@ followed by lots of research papers corresponding to several sub-fields of recom
 * What your images reveal: Exploiting visual contents for point-of-interest recommendation. WWW'17. ([paper](http://www.public.asu.edu/~swang187/publications/VPOI.pdf))
 * POI2Vec: Geographical Latent Representation for Predicting Future Visitors. AAAI'17. ([paper](https://pdfs.semanticscholar.org/ff85/033527eef66c7d89deac5f73da42c7b11682.pdf))
 * Category-aware next point-of-interest recommendation via listwise Bayesian personalized ranking. IJCAI'17. ([paper](https://www.ijcai.org/proceedings/2017/0255.pdf))
-* Predicting the Next Location: A Recurrent Model with Spatial and Temporal Contexts. AAAI'16. ([paper](https://pdfs.semanticscholar.org/5bdf/0970034d0bb8a218c06ba3f2ddf97d29103d.pdf))
+* Predicting the Next Location: A Recurrent Model with Spatial and Temporal Contexts. AAAI'16. ([paper](https://pdfs.semanticscholar.org/5bdf/0970034d0bb8a218c06ba3f2ddf97d29103d.pdf))([code](https://github.com/yongqyu/STRNN))
 * Point-of-interest recommendations: Learning potential check-ins from friends. KDD'16. ([paper](https://www.kdd.org/kdd2016/papers/files/rfp0448-liA.pdf))
 * Gmove: Group-level mobility modeling using geo-tagged social media. KDD'16. ([paper](http://hanj.cs.illinois.edu/pdf/kdd16_czhang.pdf))
 * Learning graph-based poi embedding for location-based recommendation. CIKM'16. ([paper](https://static.aminer.org/pdf/fa/cikm2016/lfp0055-xieA..pdf))
