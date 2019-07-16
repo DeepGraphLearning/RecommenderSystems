@@ -18,6 +18,7 @@ followed by lots of research papers corresponding to several sub-fields of recom
 
 
 ## General Methods
+* Infer Implicit Contexts in Real-time Online-to-Offline Recommendation. KDD'19. ([paper](https://arxiv.org/pdf/1907.04924.pdf))
 * A Capsule Network for Recommendation and Explaining What You Like and Dislike. SIGIR'19. ([paper](https://arxiv.org/pdf/1907.00687.pdf))([code](https://github.com/WHUIR/CARP))
 * Compositional Coding for Collaborative Filtering. SIGIR'19. ([paper](https://arxiv.org/pdf/1905.03752.pdf))([code](https://github.com/3140102441/CCCF))
 * Joint Optimization of Tree-based Index and Deep Model for Recommender Systems. arxiv'19. ([paper](https://arxiv.org/pdf/1902.07565.pdf))
@@ -107,6 +108,8 @@ followed by lots of research papers corresponding to several sub-fields of recom
 ## Feature-based Recommendation (CTR Prediction)
 * Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction. KDD'19. ([paper](https://arxiv.org/pdf/1906.03776.pdf))
 * Feature Generation by Convolutional Neural Network for Click-Through Rate Prediction. WWW'19. ([paper](https://arxiv.org/pdf/1904.04447.pdf))
+* Interaction-aware Factorization Machines for Recommender Systems. AAAI'19. ([paper](https://arxiv.org/pdf/1902.09757.pdf))
+* Deep Session Interest Network for Click-Through Rate Prediction. IJCAI'19. ([paper](https://arxiv.org/pdf/1905.06482.pdf))([code](https://github.com/shenweichen/DSIN))
 * AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks. arxiv'18. ([paper](https://arxiv.org/pdf/1810.11921.pdf))([code](https://github.com/shichence/AutoInt))
 * xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems. KDD'18. ([paper](https://arxiv.org/pdf/1803.05170.pdf))([code](https://github.com/Leavingseason/xDeepFM)) 
 * TEM: Tree-enhanced Embedding Model for Explainable Recommendation. WWW'18. ([paper](https://www.comp.nus.edu.sg/~xiangnan/papers/www18-tem.pdf))
@@ -149,6 +152,7 @@ followed by lots of research papers corresponding to several sub-fields of recom
 ## Reinforcement Learning for Recommendation
 * Explainable Knowledge Graph-based Recommendation via Deep Reinforcement Learning. arXiv'19. ([paper](https://arxiv.org/pdf/1906.09506.pdf))
 * Reinforcement Knowledge Graph Reasoning for Explainable Recommendation. SIGIR'19. ([paper](https://arxiv.org/pdf/1906.05237.pdf))
+* Reinforcement Learning for Slate-based Recommender Systems: A Tractable Decomposition and Practical Methodology. IJCAI'19. ([paper](https://www.cs.toronto.edu/~cebly/Papers/SlateQ_IJCAI_2019.pdf))
 * Generative Adversarial User Model for Reinforcement Learning Based Recommendation System. ICML'19. ([paper](https://arxiv.org/pdf/1812.10613v2.pdf))
 * Value-aware Recommendation based on Reinforced Profit Maximization in E-commerce Systems. arxiv'19. ([paper](https://arxiv.org/pdf/1902.00851.pdf))([code](https://github.com/rec-agent/rec-rl))
 * Top-K Off-Policy Correction for a REINFORCE Recommender System. WSDM'19. ([paper](https://arxiv.org/pdf/1812.02353.pdf))
