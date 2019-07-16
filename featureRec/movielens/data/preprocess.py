@@ -247,6 +247,8 @@ print(data_v[0])
 perm = []
 for i in range(ratings_count):
 	perm.append(i)
+        
+random.seed(2019)        
 random.shuffle(perm)
 
 train_count = int(ratings_count * 0.8)
