@@ -55,4 +55,4 @@ See details [here](https://github.com/DeepGraphLearning/RecommenderSystems/blob/
 [Session-based Social Recommendation via Dynamic Graph Attention Networks](https://arxiv.org/pdf/1902.09362.pdf). WSDM'19.
 * Weiping Song, Chence Shi, Zhiping Xiao, Zhijian Duan, Yewen Xu, Ming Zhang and Jian Tang.
 [AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks](https://arxiv.org/pdf/1810.11921.pdf).
-arXiv'2018.
+CIKM'2019.
