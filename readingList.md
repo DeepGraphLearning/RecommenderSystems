@@ -197,7 +197,8 @@ followed by lots of research papers corresponding to several sub-fields of recom
 * Friendship and mobility: user movement in location-based social networks. KDD'11. ([paper](https://cs.stanford.edu/people/jure/pubs/mobile-kdd11.pdf))
 
 ## Cold-Start Recommendation
-* From Zero-Shot Learning to Cold-Start Recommendation. AAAI2019. ([paper](https://arxiv.org/pdf/1906.08511.pdf))([code](https://github.com/lijin118/LLAE))
+* From Zero-Shot Learning to Cold-Start Recommendation. AAAI'2019. ([paper](https://arxiv.org/pdf/1906.08511.pdf))([code](https://github.com/lijin118/LLAE))
+* MeLU: Meta-Learned User Preference Estimator for Cold-Start Recommendation. KDD'2019. ([paper](https://arxiv.org/pdf/1908.00413.pdf))([code](https://github.com/hoyeoplee/MeLU))
 
 ## Security/Robutness of RecSys
 * Adversarial recommendation attack of the learned fake users. arxiv'18. ([paper](https://arxiv.org/pdf/1809.08336.pdf))
