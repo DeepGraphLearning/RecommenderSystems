@@ -19,6 +19,7 @@ followed by lots of research papers corresponding to several sub-fields of recom
 
 
 ## General Methods
+* Markov Random Field for Collaborative Filtering. NeurIPS'19. ([paper](https://arxiv.org/pdf/1910.09645.pdf))
 * Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches. RecSys'19. ([paper](https://arxiv.org/pdf/1907.06902.pdf))([code](https://github.com/MaurizioFD/RecSys2019_DeepLearning_Evaluation))
 * Infer Implicit Contexts in Real-time Online-to-Offline Recommendation. KDD'19. ([paper](https://arxiv.org/pdf/1907.04924.pdf))
 * A Capsule Network for Recommendation and Explaining What You Like and Dislike. SIGIR'19. ([paper](https://arxiv.org/pdf/1907.00687.pdf))([code](https://github.com/WHUIR/CARP))
@@ -108,6 +109,7 @@ followed by lots of research papers corresponding to several sub-fields of recom
 
 
 ## Feature-based Recommendation (CTR Prediction)
+* Recommending What Video to Watch Next: A Multitask Ranking System. RecSys'19. ([paper](https://dl.acm.org/citation.cfm?id=3346997))
 * AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks. CIKM'19. ([paper](https://arxiv.org/pdf/1810.11921.pdf))([code](https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/featureRec))
 * Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction. KDD'19. ([paper](https://arxiv.org/pdf/1906.03776.pdf))
 * Feature Generation by Convolutional Neural Network for Click-Through Rate Prediction. WWW'19. ([paper](https://arxiv.org/pdf/1904.04447.pdf))
