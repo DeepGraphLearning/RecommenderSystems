@@ -54,6 +54,7 @@ followed by lots of research papers corresponding to several sub-fields of recom
 
 
 ## Social Recommendation
+* A Modular Adversarial Approach to Social Recommendation. CIKM'2019. ([paper](http://www.cikm2019.net/attachments/papers/p1753-krishnanA.pdf))([code](https://github.com/CrowdDynamicsLab/Adversarial-Social-Recommendation))
 * Deep Adversarial Social Recommendation. IJCAI'19. ([paper](https://arxiv.org/pdf/1905.13160.pdf))
 * Beyond Personalization: Social Content Recommendation for Creator Equality and Consumer Satisfaction. KDD'19. ([paper](https://arxiv.org/pdf/1905.11900.pdf))([code](https://github.com/HKUST-KnowComp/Social-Explorative-Attention-Networks))
 * A Neural Influence Diffusion Model for Social Recommendation. SIGIR'19. ([paper](https://arxiv.org/pdf/1904.10322.pdf))([code](https://github.com/PeiJieSun/diffnet))
@@ -82,6 +83,8 @@ followed by lots of research papers corresponding to several sub-fields of recom
 
 
 ## Sequential Recommendation
+* A Dynamic Co-attention Network for Session-based Recommendation. CIKM'2019. ([paper](http://www.cikm2019.net/attachments/papers/p1461-chenA.pdf))
+* BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer. CIKM'2019. ([paper](http://www.cikm2019.net/attachments/papers/p1441-sunA.pdf))([code](https://github.com/FeiSun/BERT4Rec))
 * Hierarchical Gating Networks for Sequential Recommendation. KDD2019. ([paper](https://arxiv.org/pdf/1906.09217.pdf))([code](https://github.com/allenjack/HGN))
 * Hierarchical Context enabled Recurrent Neural Network for Recommendation. AAAI2019. ([paper](https://arxiv.org/pdf/1904.12674.pdf))([code](https://github.com/gtshs2/HCRNN))
 * Lifelong Sequential Modeling with Personalized Memorization for User Response Prediction. SIGIR'19. ([paper](https://arxiv.org/pdf/1905.00758.pdf))([code](https://github.com/alimamarankgroup/HPMN))
