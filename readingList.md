@@ -204,6 +204,7 @@ followed by lots of research papers corresponding to several sub-fields of recom
 ## Cold-Start Recommendation
 * From Zero-Shot Learning to Cold-Start Recommendation. AAAI'2019. ([paper](https://arxiv.org/pdf/1906.08511.pdf))([code](https://github.com/lijin118/LLAE))
 * MeLU: Meta-Learned User Preference Estimator for Cold-Start Recommendation. KDD'2019. ([paper](https://arxiv.org/pdf/1908.00413.pdf))([code](https://github.com/hoyeoplee/MeLU))
+* DropoutNet: Addressing Cold Start in Recommender Systems. NeurIPS'2019. ([paper](https://papers.nips.cc/paper/7081-dropoutnet-addressing-cold-start-in-recommender-systems.pdf))([code](https://github.com/layer6ai-labs/DropoutNet))
 
 ## Security/Robutness of RecSys
 * Adversarial recommendation attack of the learned fake users. arxiv'18. ([paper](https://arxiv.org/pdf/1809.08336.pdf))
