@@ -207,8 +207,10 @@ followed by lots of research papers corresponding to several sub-fields of recom
 * DropoutNet: Addressing Cold Start in Recommender Systems. NeurIPS'2019. ([paper](https://papers.nips.cc/paper/7081-dropoutnet-addressing-cold-start-in-recommender-systems.pdf))([code](https://github.com/layer6ai-labs/DropoutNet))
 
 ## Security/Robutness of RecSys
+* Data Poisoning Attacks on Neighborhood-based Recommender Systems. arxiv'19. ([paper](https://arxiv.org/pdf/1912.04109.pdf))
 * Adversarial recommendation attack of the learned fake users. arxiv'18. ([paper](https://arxiv.org/pdf/1809.08336.pdf))
 * Poisoning Attacks to Graph-Based Recommender Systems. arxiv'18. ([paper](https://arxiv.org/abs/1809.04127.pdf))
 * Adversarial Personalized Ranking for Recommendation. SIGIR'18. ([paper](https://www.comp.nus.edu.sg/~xiangnan/papers/sigir18-adversarial-ranking.pdf))
 * Adversarial Collaborative Auto-encoder for Top-N Recommendation. arxiv'18. ([paper](https://arxiv.org/pdf/1808.05361.pdf))
+* Fake Co-visitation Injection Attacks to Recommender Systems. NDSS'17. ([paper](http://people.duke.edu/~zg70/papers/ndss17-attackRS.pdf))
 * Data Poisoning Attacks on Factorization-Based Collaborative Filtering. NIPS'16. ([paper](https://arxiv.org/pdf/1608.08182.pdf))
