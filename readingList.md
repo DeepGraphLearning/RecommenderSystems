@@ -214,3 +214,18 @@ followed by lots of research papers corresponding to several sub-fields of recom
 * Adversarial Collaborative Auto-encoder for Top-N Recommendation. arxiv'18. ([paper](https://arxiv.org/pdf/1808.05361.pdf))
 * Fake Co-visitation Injection Attacks to Recommender Systems. NDSS'17. ([paper](http://people.duke.edu/~zg70/papers/ndss17-attackRS.pdf))
 * Data Poisoning Attacks on Factorization-Based Collaborative Filtering. NIPS'16. ([paper](https://arxiv.org/pdf/1608.08182.pdf))
+
+## Causal Recommendation
+* Large-scale Causal Approaches to Debiasing Post-click Conversion Rate Estimation with Multi-task Learning. arxiv'2020. ([paper](https://arxiv.org/pdf/1910.09337v2.pdf))
+* The Blessings of Multiple Causes. JASA'19. ([paper](https://arxiv.org/pdf/1805.06826.pdf))
+* Observational Data for Heterogeneous Treatment Effects with Application to Recommender Systems. EC'19. ([paper](https://dl.acm.org/doi/10.1145/3328526.3329558))
+* The Deconfounded Recommender: A Causal Inference Approach to Recommendation. arxiv'19. ([paper](https://arxiv.org/pdf/1808.06581.pdf))
+* Causal Embeddings for Recommendation: An Extended Abstract. IJCAI'2019. ([paper](https://www.ijcai.org/Proceedings/2019/0870.pdf))
+* Causal Embeddings for Recommendation. RecSys'18. ([paper](https://arxiv.org/pdf/1706.07639.pdf))
+* Collaborative Filtering with Social Exposure: A Modular Approach to Social Recommendation. AAAI'2018. ([paper](https://arxiv.org/pdf/1711.11458.pdf))
+* Modeling User Exposure in Recommendation. WWW'16. ([paper](http://www.cs.columbia.edu/~blei/papers/LiangCharlinMcInerneyBlei2016.pdf))
+* Causal Inference for Recommendation. UAI Workshop'16. ([paper](http://www.its.caltech.edu/~fehardt/UAI2016WS/papers/Liang.pdf))
+* Recommendations as Treatments: Debiasing Learning and Evaluation. ICML'16. ([paper](https://arxiv.org/pdf/1602.05352.pdf))
+* Batch Learning from Logged Bandit Feedback through Counterfactual Risk Minimization. JMLR'15. ([paper](https://www.cs.cornell.edu/people/tj/publications/swaminathan_joachims_15c.pdf))
+* Estimating the Causal Impact of Recommendation Systems from Observational Data. EC'15. ([paper](https://arxiv.org/pdf/1510.05569.pdf))
+* Consistence beats causality in recommender systems. arxiv'15. ([paper](https://arxiv.org/pdf/2004.03774.pdf))
